@@ -1,0 +1,14 @@
+{
+    "name": "muham/saba",
+    "authors": [
+        {
+            "name": "shah3093",
+            "email": "smimran.eng@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/dom-crawler": "^5.0",
+        "symfony/css-selector": "^5.0"
+    }
+}
